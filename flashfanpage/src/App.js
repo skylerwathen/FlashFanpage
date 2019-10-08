@@ -25,7 +25,7 @@ function App() {
 
 export default App;
 
-class Footer extends React.Component {
+/*class Footer extends React.Component {
   render(){
     return(
     <meta charset="utf-8"/>
@@ -39,4 +39,4 @@ class Footer extends React.Component {
 </footer>
     );
   }
-}
+}*/
